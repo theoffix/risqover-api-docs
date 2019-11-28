@@ -3,7 +3,7 @@
 To enable the the API, add a custom field of value type Single select (API). 
 This will create an API endpoint to insert values for that custom field. 
 
-###API call
+### API call
 
 The API accepts only `POST` requests. You should send `list_values` along
 with the `authenticator` which is an authentication token generated and displayed to you
